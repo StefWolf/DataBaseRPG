@@ -10,12 +10,13 @@ O objetivo deste repositório é armazenar todo o esquema cronológico de uma ba
 - [x] Concertando relacionamentos
 - [x] Ajustando tamanho das colunas
 - [x] Criando tabelas de Magia 
-- [ ] Passando primeiro RASCUNHO para Modelo Físico
+- [x] Passando primeiro RASCUNHO para Modelo Físico
+- [ ] Automoção com TRIGGERS
+- [ ] Inserção de dados-teste
+- [ ] Criação de VIEWS
 
 ## METAS FUTURAS:
-- [ ] Desenvolvimento do modelo FÍSICO no SQL-SERVER (Em execução...)
-- [ ] Inserção de dados-teste
-- [ ] Automoção com TRIGGERS
+- [ ] Criação de Wireframe
 
 ### MODELO LÓGICO:
 
