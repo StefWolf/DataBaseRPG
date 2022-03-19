@@ -7,12 +7,13 @@ O objetivo deste repositório é armazenar todo o esquema cronológico de uma ba
 
 ## METAS EM DESENVOLVIMENTO: 
 - [x] Desenvolvimento do modelo LÓGICO
-- [ ] Concertando cardinalidades
-- [ ] Ajustando tamanho das colunas
-- [ ] Criando tabelas de Magia 
+- [x] Concertando relacionamentos
+- [x] Ajustando tamanho das colunas
+- [x] Criando tabelas de Magia 
+- [ ] Passando primeiro RASCUNHO para Modelo Físico
 
 ## METAS FUTURAS:
-- [ ] Desenvolvimento do modelo FÍSICO no SQL-SERVER
+- [ ] Desenvolvimento do modelo FÍSICO no SQL-SERVER (Em execução...)
 - [ ] Inserção de dados-teste
 - [ ] Automoção com TRIGGERS
 
